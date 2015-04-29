@@ -6,6 +6,8 @@ gem 'rails', '4.2.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
+gem 'bootstrap-sass', '~> 3.1.1'
+
 group :development do
 gem 'rspec-rails', '2.0.1'
 end
